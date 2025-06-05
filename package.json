@@ -1,6 +1,6 @@
 {
   "name": "@juanscl/prettier-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A shared Prettie config",
   "main": "index.js",
   "keywords": [
