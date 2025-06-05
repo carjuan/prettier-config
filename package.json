@@ -1,0 +1,23 @@
+{
+  "name": "@juanscl/prettier-config",
+  "version": "1.0.1",
+  "description": "A shared Prettie config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "prettier"
+  ],
+  "author": "Juan Carvajal",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "prettier": ">=3.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.5.3"
+  }
+}
