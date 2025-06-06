@@ -16,7 +16,7 @@ If feeling like using your `package.json`, add:
 }
 ```
 
-or you can have .prettierrc:
+or you can have `.prettierrc`:
 
 ```json
 "@juanscl/prettier-config"
