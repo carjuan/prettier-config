@@ -6,8 +6,8 @@ const config = {
   semi: true,
   singleQuote: true,
   arrowParens: "always",
-  printWidth: 120,
   quoteProps: "as-needed",
+  proseWrap: "always",
 };
 
 export default config;

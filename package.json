@@ -1,6 +1,6 @@
 {
   "name": "@juanscl/prettier-config",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A shared Prettier config",
   "repository": "carjuan/prettier-config",
   "main": "index.js",
