@@ -1,0 +1,29 @@
+{
+  "name": "@juanscl/prettier-config",
+  "version": "1.0.5",
+  "description": "A shared Prettier config",
+  "main": "index.js",
+  "private": false,
+  "author": {
+    "name": "Juan Carvajal",
+    "url": "https://github.com/carjuan"
+  },
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carjuan/prettier-config",
+    "directory": "packages/react-dom"
+  },
+  "keywords": [
+    "prettier"
+  ],
+  "license": "MIT",
+  "peerDependencies": {
+    "prettier": ">=3.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.5.3"
+  }
+}
